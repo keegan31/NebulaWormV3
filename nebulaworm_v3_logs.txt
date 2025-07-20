@@ -1,0 +1,10 @@
+[+] NebulaWorm v3 Development Log
+    Generated on: 2025-07-20
+
+[✔] Anti-Debug & Anti-VM Detection Downgraded due to false positives tweaked little bit too easier to use now
+[✔] Basic Bootkit Added But Needs To Be Configured or Might Cause Data Loss Due To MBR Write
+[✔] Ransomware Behaviour Like Module Added For Anti Tampering 
+[✔] Random BSOD Trigger Module added RBSOD.cs
+[✔] Random Shutdown Trigger Module added RandomShuts.cs
+[✔] ETW Bypass Are Looped
+[✔] AMSI Bypass Are Looped
